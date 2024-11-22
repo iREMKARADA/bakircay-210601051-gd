@@ -21,7 +21,8 @@ In the midterm phase, students will:
  - **Object Movement:** Implement functionality for players to pick up and drag objects using touch or mouse input.
  - **Object Placement:** Ensure players can place only one object in the designated placement area at a time.
 
- 
+## Screen Recording of the Game
+ https://www.youtube.com/watch?v=aabpxpJDdfs
 
 
 
